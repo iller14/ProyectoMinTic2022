@@ -1,3 +1,9 @@
 1. Aqui escribio Pedro Emilio Caicedo Rios
 2. Aqui escribio el GrupoBroDevs
+<<<<<<< HEAD
 3. Aqui escribio Sixto Alberto Orobio
+=======
+3. Aqui escribio Carlos Porto
+>>>>>>> df9609ead8fcc9a7323e42cb9a23f3d00a3d0f7f
+
+23. Aqui escribio Sixto Alberto Orobio
