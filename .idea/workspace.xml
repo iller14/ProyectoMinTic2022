@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc16968b-c602-4b57-a176-6fefd590535f" name="Changes" comment="">
+    <list default="true" id="fc16968b-c602-4b57-a176-6fefd590535f" name="Changes" comment="Commit de prueba">
       <change beforePath="$PROJECT_DIR$/PruebaVersiones/src/main/java/Tareas.java" beforeDir="false" afterPath="$PROJECT_DIR$/PruebaVersiones/src/main/java/Tareas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +44,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661012026974</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit de prueba">
+      <created>1661012859546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661012859546</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -56,5 +64,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit de prueba" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit de prueba" />
   </component>
 </project>
