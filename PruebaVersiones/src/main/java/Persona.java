@@ -1,4 +1,4 @@
 public class Persona {
-String edad=16;
+int edad=16;
 String nombre ="Maria";
 }
