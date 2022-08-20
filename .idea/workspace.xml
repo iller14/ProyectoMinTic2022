@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="fc16968b-c602-4b57-a176-6fefd590535f" name="Changes" comment="Se añadió código en línea 7" />
-=======
-    <list default="true" id="fc16968b-c602-4b57-a176-6fefd590535f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/PruebaVersiones/src/main/java/Tareas.java" beforeDir="false" afterPath="$PROJECT_DIR$/PruebaVersiones/src/main/java/Tareas.java" afterDir="false" />
-    </list>
->>>>>>> 5ebc1ca (Create workspace.xml)
+    <list default="true" id="fc16968b-c602-4b57-a176-6fefd590535f" name="Changes" comment="EScribí en la linea número 7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +26,6 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -40,15 +33,6 @@
     &quot;last_opened_file_path&quot;: &quot;E:/Mis Carpetas/Curso de programación/Ciclo III/ProyectoMinTic2022&quot;
   }
 }</component>
-=======
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Mis Carpetas/Curso de programación/Ciclo III/ProyectoMinTic2022"
-  }
-}]]></component>
->>>>>>> 5ebc1ca (Create workspace.xml)
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,17 +42,6 @@
       <option name="presentableId" value="Default" />
       <updated>1661012026974</updated>
     </task>
-<<<<<<< HEAD
-    <task id="LOCAL-00001" summary="Se añadió código en línea 7">
-      <created>1661013508525</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1661013508525</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
-=======
->>>>>>> 5ebc1ca (Create workspace.xml)
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,11 +55,4 @@
       </map>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Se añadió código en línea 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se añadió código en línea 7" />
-  </component>
-=======
->>>>>>> 5ebc1ca (Create workspace.xml)
 </project>
