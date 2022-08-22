@@ -9,6 +9,7 @@ public static void main (String args []){
     System.out.println ("Aqui escribio el Domingo el Profe");
     System.out.println ("Aqui escribio el Domingo Odaris");
     System.out.println("Aqui escribio el lunes Juanse");
+    System.out.println("Aqui escribio gtav");
 }
 
 }
