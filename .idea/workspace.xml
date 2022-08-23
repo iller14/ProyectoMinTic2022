@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29c7bd9b-3aa3-44d7-badf-d53275b422b3" name="Changes" comment="Commit de prueba" />
+    <list default="true" id="8bdb0552-8e6b-47c9-90dd-a72452f65a6b" name="Changes" comment="Commit de prueba" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +21,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-
   <component name="ProjectId" id="2DfY8Gl9lYEjjJZ1Fr2ojtwY36r" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,6 +42,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661091444607</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit de prueba">
+      <created>1661213551422</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661213551422</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -55,5 +62,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit de prueba" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit de prueba" />
   </component>
 </project>
