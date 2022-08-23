@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+
       <module fileurl="file://$PROJECT_DIR$/.idea/ProyectoMinTic2022.iml" filepath="$PROJECT_DIR$/.idea/ProyectoMinTic2022.iml" />
+
+      <module fileurl="file://$PROJECT_DIR$/.idea/MisionTic.iml" filepath="$PROJECT_DIR$/.idea/MisionTic.iml" />
+
     </modules>
   </component>
 </project>
